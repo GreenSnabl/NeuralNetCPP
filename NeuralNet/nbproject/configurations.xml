@@ -4,6 +4,9 @@
     <logicalFolder name="HeaderFiles"
                    displayName="Header Files"
                    projectFiles="true">
+      <itemPath>NeuralNet.h</itemPath>
+      <itemPath>Neuron.h</itemPath>
+      <itemPath>TrainingData.h</itemPath>
     </logicalFolder>
     <logicalFolder name="ResourceFiles"
                    displayName="Resource Files"
@@ -12,6 +15,9 @@
     <logicalFolder name="SourceFiles"
                    displayName="Source Files"
                    projectFiles="true">
+      <itemPath>NeuralNet.cpp</itemPath>
+      <itemPath>Neuron.cpp</itemPath>
+      <itemPath>TrainingData.cpp</itemPath>
       <itemPath>main.cpp</itemPath>
     </logicalFolder>
     <logicalFolder name="TestFiles"
@@ -39,6 +45,18 @@
           <standard>11</standard>
         </ccTool>
       </compileType>
+      <item path="NeuralNet.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="NeuralNet.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Neuron.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Neuron.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="TrainingData.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="TrainingData.h" ex="false" tool="3" flavor2="0">
+      </item>
       <item path="main.cpp" ex="false" tool="1" flavor2="0">
       </item>
     </conf>
@@ -63,6 +81,18 @@
           <developmentMode>5</developmentMode>
         </asmTool>
       </compileType>
+      <item path="NeuralNet.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="NeuralNet.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Neuron.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Neuron.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="TrainingData.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="TrainingData.h" ex="false" tool="3" flavor2="0">
+      </item>
       <item path="main.cpp" ex="false" tool="1" flavor2="0">
       </item>
     </conf>

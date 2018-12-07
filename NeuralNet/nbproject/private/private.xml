@@ -4,4 +4,16 @@
         <activeConfTypeElem>1</activeConfTypeElem>
         <activeConfIndexElem>0</activeConfIndexElem>
     </data>
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/den/dev/CPP_Neural_Net/NeuralNet/main.cpp</file>
+            <file>file:/home/den/dev/CPP_Neural_Net/NeuralNet/NeuralNet.cpp</file>
+            <file>file:/home/den/dev/CPP_Neural_Net/NeuralNet/Neuron.h</file>
+            <file>file:/home/den/dev/CPP_Neural_Net/NeuralNet/TrainingData.cpp</file>
+            <file>file:/home/den/dev/CPP_Neural_Net/NeuralNet/NeuralNet.h</file>
+            <file>file:/home/den/dev/CPP_Neural_Net/NeuralNet/TrainingData.h</file>
+            <file>file:/home/den/dev/CPP_Neural_Net/NeuralNet/Neuron.cpp</file>
+        </group>
+    </open-files>
 </project-private>
